@@ -1,6 +1,0 @@
-c:\users\moises.dominguez\documents\visual studio 2013\Projects\Factory 1\Factory 1\bin\Debug\Factory 1.exe.config
-c:\Users\moises.dominguez\Documents\Visual Studio 2013\Projects\Factory 1\Factory 1\obj\Debug\Factory 1.csprojResolveAssemblyReference.cache
-C:\Users\moises.dominguez\Documents\Visual Studio 2013\Projects\Factory 1\Factory 1\bin\Debug\Factory 1.exe
-C:\Users\moises.dominguez\Documents\Visual Studio 2013\Projects\Factory 1\Factory 1\bin\Debug\Factory 1.pdb
-C:\Users\moises.dominguez\Documents\Visual Studio 2013\Projects\Factory 1\Factory 1\obj\Debug\Factory 1.exe
-C:\Users\moises.dominguez\Documents\Visual Studio 2013\Projects\Factory 1\Factory 1\obj\Debug\Factory 1.pdb
